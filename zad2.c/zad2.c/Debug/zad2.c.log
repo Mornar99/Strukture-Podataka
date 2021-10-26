@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Ivan\Desktop\strukt. pod.-lab\zad2.c\zad2.c\Source.c(33,18): warning C4047: 'return': 'Poz' differs in levels of indirection from 'int'
+C:\Users\Ivan\Desktop\strukt. pod.-lab\zad2.c\zad2.c\Source.c(83): warning C4716: 'UnosK': must return a value
+  zad2.c.vcxproj -> C:\Users\Ivan\Desktop\strukt. pod.-lab\zad2.c\Debug\zad2.c.exe
