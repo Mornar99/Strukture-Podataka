@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Ivan\Desktop\strukt. pod.-lab\zad3.c\zad3.c\Source.c(39,18): warning C4047: 'return': 'Poz' differs in levels of indirection from 'int'
+  zad3.c.vcxproj -> C:\Users\Ivan\Desktop\strukt. pod.-lab\zad3.c\Debug\zad3.c.exe
