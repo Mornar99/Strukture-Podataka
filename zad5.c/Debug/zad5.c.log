@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Ivan\Desktop\strukt_pod_lab\zad5.c\zad5.c\Source.c(127,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  zad5.c.vcxproj -> C:\Users\Ivan\Desktop\strukt_pod_lab\zad5.c\Debug\zad5.c.exe
