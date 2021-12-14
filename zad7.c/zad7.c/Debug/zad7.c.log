@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Ivan\Desktop\strukt_pod_lab\zad7.c\zad7.c\Source.c(27,12): warning C4047: 'return': 'Stablo' differs in levels of indirection from 'int'
+C:\Users\Ivan\Desktop\strukt_pod_lab\zad7.c\zad7.c\Source.c(75): warning C4715: 'ChangeDir': not all control paths return a value
+  zad7.c.vcxproj -> C:\Users\Ivan\Desktop\strukt_pod_lab\zad7.c\Debug\zad7.c.exe
