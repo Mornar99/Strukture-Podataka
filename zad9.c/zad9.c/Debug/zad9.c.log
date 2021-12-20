@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Ivan\Desktop\strukt_pod_lab\zad9.c\zad9.c\Source.c(51,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  zad9.c.vcxproj -> C:\Users\Ivan\Desktop\strukt_pod_lab\zad9.c\Debug\zad9.c.exe
