@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\student\Desktop\zad10.c\zad10.c\Source.c(79,11): warning C4098: 'DodajUListu': 'void' function returning a value
+  zad10.c.vcxproj -> C:\Users\student\Desktop\zad10.c\Debug\zad10.c.exe
