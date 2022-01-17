@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Ivan\Desktop\strukt_pod_lab\zad11.c\zad11.c\Source.c(48,11): warning C4013: 'DodajGrad' undefined; assuming extern returning int
+C:\Users\Ivan\Desktop\strukt_pod_lab\zad11.c\zad11.c\Source.c(117,15): warning C4013: 'IspisGradova' undefined; assuming extern returning int
+C:\Users\Ivan\Desktop\strukt_pod_lab\zad11.c\zad11.c\Source.c(142,14): warning C4013: 'TraziGradove' undefined; assuming extern returning int
+  zad11.c.vcxproj -> C:\Users\Ivan\Desktop\strukt_pod_lab\zad11.c\Debug\zad11.c.exe
